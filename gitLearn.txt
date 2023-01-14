@@ -1,0 +1,2 @@
+1.to see what inside the current directory file saved (show all commits)
+command -   git status
