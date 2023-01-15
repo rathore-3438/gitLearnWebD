@@ -1,2 +1,13 @@
-1.to see what inside the current directory file saved (show all commits)
+1.to see what inside the current directory file saved (show all commits and staging area(all file present inside git) )
 command -   git status
+
+2. to commit file (making a savepoint) 
+command  - git commit -m "Complete two commands"
+
+3. to see all commits which we have done
+command  - git log
+
+4. to save inside commit all files present inside current directory
+command -git add .
+
+5. to 
